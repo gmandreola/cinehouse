@@ -68,3 +68,4 @@ console.table(filmesDeLongaDuracao)
 const listarFilmesEmCartaz = () => filmes.filter(filme => !filme.emCartaz)
 console.table(listarFilmesEmCartaz())
 
+console.log(cinema)
